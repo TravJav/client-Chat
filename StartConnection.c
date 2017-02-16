@@ -10,7 +10,7 @@
  #include <fcntl.h>
 #include <pthread.h>
 #define LENGTH (512)
-#define FILENAME "/Users/travishaycock/Desktop/testMe.txt"
+#define FILENAME "/Users/user/Desktop/testMe.txt"
 #include <errno.h>
 #include <sys/stat.h>
 #define PORT_NUMBER (20022) // port number where to port in application
